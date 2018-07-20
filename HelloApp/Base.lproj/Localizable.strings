@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  HelloApp
+
+  Created by Adi Nugroho on 20/07/18.
+  Copyright © 2018 Lonely Box. All rights reserved.
+*/
+"Welcome" = "Welcome";
+"Continue" = "Continue";
+"Size" = "Size";
+"Color" = "Color";
+"Status" = "Status";
+"Price" = "Price";
+"Delivery" = "Delivery";
+"Add to cart" = "Add To Cart";
