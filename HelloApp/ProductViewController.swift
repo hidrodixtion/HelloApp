@@ -28,20 +28,22 @@ class ProductViewController: UIViewController {
         btnAddToCart.setTitle(NSLocalizedString("Add to cart", comment: "").uppercased(), for: .normal)
     }
 
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
+    @IBAction func onBtnClicked(_ sender: UIButton) {
+        DispatchQueue.main.asyncAfter(deadline: .now() + 2) { [weak self] in
+            self?.showAlert()
+        }
     }
     
-
-    /*
-    // MARK: - Navigation
-
-    // In a storyboard-based application, you will often want to do a little preparation before navigation
-    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
-        // Get the new view controller using segue.destinationViewController.
-        // Pass the selected object to the new view controller.
+    private func showAlert() {
+        let title = NSLocalizedString("Success", comment: "")
+        let message = NSLocalizedString("Message", comment: "")
+        
+        let uiAlert = UIAlertController(title: title, message: message, preferredStyle: .alert)
+        let okAction = UIAlertAction(title: "Ok", style: .default) { (_) in
+            uiAlert.dismiss(animated: true, completion: nil)
+        }
+        uiAlert.addAction(okAction)
+        
+        present(uiAlert, animated: true, completion: nil)
     }
-    */
-
 }

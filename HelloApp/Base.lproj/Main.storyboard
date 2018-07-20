@@ -76,6 +76,9 @@
                                 <state key="normal" title="ADD TO CART">
                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
+                                <connections>
+                                    <action selector="onBtnClicked:" destination="1KW-PY-DTi" eventType="touchUpInside" id="QN9-fc-L17"/>
+                                </connections>
                             </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Stylish Vintage Jacket #40" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="0Fo-0t-roG">
                                 <rect key="frame" x="16" y="288" width="242" height="22.5"/>

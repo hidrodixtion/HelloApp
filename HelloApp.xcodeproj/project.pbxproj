@@ -39,8 +39,8 @@
 		7902F98D2101E1AA0024FBB8 /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/Main.strings; sourceTree = "<group>"; };
 		7902F98E2101E1AA0024FBB8 /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
 		7902F9922101E2090024FBB8 /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/Localizable.strings; sourceTree = "<group>"; };
-		7902F9952101E28E0024FBB8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = Base; path = Base.lproj/Localizable.strings; sourceTree = "<group>"; };
 		7902F9962101E3A10024FBB8 /* ProductViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductViewController.swift; sourceTree = "<group>"; };
+		7902F9A421029D0F0024FBB8 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
 		796E9D0F2100CA2B00FFFC53 /* HelloApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HelloApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		796E9D122100CA2B00FFFC53 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		796E9D142100CA2B00FFFC53 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -308,7 +308,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				7902F9922101E2090024FBB8 /* fr */,
-				7902F9952101E28E0024FBB8 /* Base */,
+				7902F9A421029D0F0024FBB8 /* en */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";

@@ -13,3 +13,5 @@
 "Price" = "Price";
 "Delivery" = "Delivery";
 "Add to cart" = "Add To Cart";
+"Success" = "Success";
+"Message" = "Product has been added to cart.";
