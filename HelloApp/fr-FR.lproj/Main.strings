@@ -1,0 +1,48 @@
+
+/* Class = "UILabel"; text = "Stylish Vintage Jacket #40"; ObjectID = "0Fo-0t-roG"; */
+"0Fo-0t-roG.text" = "Stylish Vintage Jacket #40";
+
+/* Class = "UIViewController"; title = "Product Detail"; ObjectID = "1KW-PY-DTi"; */
+"1KW-PY-DTi.title" = "Product Detail";
+
+/* Class = "UILabel"; text = "Price"; ObjectID = "2zv-oe-yXq"; */
+"2zv-oe-yXq.text" = "Price";
+
+/* Class = "UILabel"; text = "Welcome Back"; ObjectID = "5gY-k0-gxD"; */
+"5gY-k0-gxD.text" = "Welcome Back";
+
+/* Class = "UILabel"; text = "Ready Stock"; ObjectID = "ETl-Ta-kMd"; */
+"ETl-Ta-kMd.text" = "Ready Stock";
+
+/* Class = "UILabel"; text = "Color"; ObjectID = "OPN-I9-uGr"; */
+"OPN-I9-uGr.text" = "Color";
+
+/* Class = "UILabel"; text = "30 July 2018"; ObjectID = "Qsh-KN-zKb"; */
+"Qsh-KN-zKb.text" = "30 July 2018";
+
+/* Class = "UINavigationItem"; title = "Shoppping"; ObjectID = "UnU-Sg-md6"; */
+"UnU-Sg-md6.title" = "Shoppping";
+
+/* Class = "UILabel"; text = "XL"; ObjectID = "WDc-71-hH0"; */
+"WDc-71-hH0.text" = "XL";
+
+/* Class = "UILabel"; text = "Navy Blue"; ObjectID = "WhM-TZ-D13"; */
+"WhM-TZ-D13.text" = "Navy Blue";
+
+/* Class = "UILabel"; text = "Size"; ObjectID = "cje-y8-p6K"; */
+"cje-y8-p6K.text" = "Size";
+
+/* Class = "UILabel"; text = "$48"; ObjectID = "g37-QU-sY9"; */
+"g37-QU-sY9.text" = "$48";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "i7B-t3-a8D"; */
+"i7B-t3-a8D.normalTitle" = "Continue";
+
+/* Class = "UILabel"; text = "Delivery"; ObjectID = "qwN-dh-oPD"; */
+"qwN-dh-oPD.text" = "Delivery";
+
+/* Class = "UIButton"; normalTitle = "ADD TO CART"; ObjectID = "uwJ-oX-QxX"; */
+"uwJ-oX-QxX.normalTitle" = "ADD TO CART";
+
+/* Class = "UILabel"; text = "Status"; ObjectID = "w0E-nB-ztv"; */
+"w0E-nB-ztv.text" = "Status";
