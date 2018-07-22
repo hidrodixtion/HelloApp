@@ -7,9 +7,11 @@
 */
 "Welcome" = "Bienvenue";
 "Continue" = "Continuer";
-"Size" = "La Taille";
-"Color" = "La Couleur";
-"Status" = "Le Statut";
-"Price" = "Le Prix";
-"Delivery" = "La Livraison";
+"Size" = "Taille";
+"Color" = "Couleur";
+"Status" = "Statut";
+"Price" = "Prix";
+"Delivery" = "Livraison";
 "Add to cart" = "Ajouter au panier";
+"Success" = "Succès";
+"Message" = "Le produit a été ajouté au panier.";

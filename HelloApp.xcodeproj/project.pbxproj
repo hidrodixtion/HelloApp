@@ -36,11 +36,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		7902F98D2101E1AA0024FBB8 /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/Main.strings; sourceTree = "<group>"; };
-		7902F98E2101E1AA0024FBB8 /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
-		7902F9922101E2090024FBB8 /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/Localizable.strings; sourceTree = "<group>"; };
 		7902F9962101E3A10024FBB8 /* ProductViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductViewController.swift; sourceTree = "<group>"; };
 		7902F9A421029D0F0024FBB8 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		791971F72104D062004B5107 /* fr-FR */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "fr-FR"; path = "fr-FR.lproj/LaunchScreen.strings"; sourceTree = "<group>"; };
+		791971F82104D062004B5107 /* fr-FR */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "fr-FR"; path = "fr-FR.lproj/Main.strings"; sourceTree = "<group>"; };
+		791971F92104D062004B5107 /* fr-FR */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "fr-FR"; path = "fr-FR.lproj/Localizable.strings"; sourceTree = "<group>"; };
 		796E9D0F2100CA2B00FFFC53 /* HelloApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HelloApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		796E9D122100CA2B00FFFC53 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		796E9D142100CA2B00FFFC53 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -220,6 +220,7 @@
 			knownRegions = (
 				en,
 				Base,
+				"fr-FR",
 			);
 			mainGroup = 796E9D062100CA2B00FFFC53;
 			productRefGroup = 796E9D102100CA2B00FFFC53 /* Products */;
@@ -307,8 +308,8 @@
 		7902F9932101E2090024FBB8 /* Localizable.strings */ = {
 			isa = PBXVariantGroup;
 			children = (
-				7902F9922101E2090024FBB8 /* fr */,
 				7902F9A421029D0F0024FBB8 /* en */,
+				791971F92104D062004B5107 /* fr-FR */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";
@@ -317,7 +318,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				796E9D172100CA2B00FFFC53 /* Base */,
-				7902F98D2101E1AA0024FBB8 /* fr */,
+				791971F82104D062004B5107 /* fr-FR */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -326,7 +327,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				796E9D1C2100CA2D00FFFC53 /* Base */,
-				7902F98E2101E1AA0024FBB8 /* fr */,
+				791971F72104D062004B5107 /* fr-FR */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
